@@ -3,7 +3,7 @@
 - Migrations | ✔️
 - Entity Framework | in process 👨‍🎓
 - API | ❎
-- Databases | ❎
+- Databases | ✔️
 - WPF | ❎
 
 👨‍🎓 SGK Student
