@@ -1,7 +1,7 @@
 ## Learning progress
 - C# Basics | ✔️
 - Migrations | ✔️
-- Entity Framework | in process 👨‍🎓
+- Entity Framework | ✔️
 - API | ❎
 - Databases | ✔️
 - WPF | ❎
