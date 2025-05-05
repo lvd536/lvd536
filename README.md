@@ -1,10 +1,15 @@
-## Learning progress
+## C# Skills
 - C# Basics | ✔️
 - Migrations | ✔️
 - Entity Framework | ✔️
-- API | ❎
 - Databases | ✔️
-- WPF | ❎
+## Unity Skills
+- Unity basics | ✔️
+- Unity 3d/2d | ✔️
+- Cinemachine | ✔️
+- Coroutines | ✔️
+- NavMesh | ✔️
+- UI | ✔️
 ---
 ## PET-Projects
 - https://github.com/lvd536/Telegram-Chat-Manager - Многофункциональный Чат-Менеджер для Telegram чатов
