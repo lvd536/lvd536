@@ -2,6 +2,7 @@
 - C# Basics | ✔️
 - Migrations | ✔️
 - Entity Framework | ✔️
+- Telegram.Bot Framework | ✔️
 - Databases | ✔️
 ## Unity Skills
 - Unity basics | ✔️
