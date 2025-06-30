@@ -11,6 +11,8 @@
 - Coroutines | ✔️
 - NavMesh | ✔️
 - UI | ✔️
+- ## Frontend Skills
+- In Progress👨🏻‍💻
 ---
 ## PET-Projects
 - https://github.com/lvd536/Telegram-Chat-Manager - Многофункциональный Чат-Менеджер для Telegram чатов
