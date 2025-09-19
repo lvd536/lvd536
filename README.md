@@ -12,7 +12,10 @@
 - NavMesh | ✔️
 - UI | ✔️
 - ## Frontend Skills
-- In Progress👨🏻‍💻
+- HTML | ✔️
+- CSS | ✔️
+- JS | ✔️
+- TS, SCSS, React...
 ---
 ## PET-Projects
 - https://github.com/lvd536/Telegram-Chat-Manager - Многофункциональный Чат-Менеджер для Telegram чатов
