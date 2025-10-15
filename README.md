@@ -17,7 +17,7 @@
 - SCSS/SASS | ✔️
 - JS | ✔️
 - React | ✔️
-- TS, SCSS, React...
+- TS...
 ---
 ## PET-Projects
 <div align="center">
