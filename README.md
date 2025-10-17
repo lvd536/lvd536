@@ -17,13 +17,14 @@
 - SCSS/SASS | ✔️
 - JS | ✔️
 - React | ✔️
-- TS...
+- TS | ✔️
+- Redux/Zustand...
 ---
 ## PET-Projects
 <div align="center">
   <sub>WEB | React | JS | Telegram</sub>
 </div>
-- https://github.com/lvd536/Hamster-Combat-Like - Пародия Hamster Combat практически с идентичным дизайном первой версии. 2 ветки: JS и React
+- https://github.com/lvd536/Hamster-Combat-Like - Пародия Hamster Combat практически с идентичным дизайном первой версии. 2 ветки: JS и React + TS
 <div align="center">
   <sub>Telegram | C#</sub>
 </div>
