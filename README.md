@@ -18,7 +18,9 @@
 - JS | ✔️
 - React | ✔️
 - TS | ✔️
-- Redux/Zustand...
+- Zustand | ✔️
+- Tailwind | ✔️
+- Redux/Next...
 ---
 ## PET-Projects
 <div align="center">
