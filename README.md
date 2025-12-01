@@ -1,7 +1,7 @@
 ## 🛠 Skills
 
 ### Tech & Tools
-* **Frontend** — HTML, CSS, SCSS/SASS, JS, React, TS, Zustand, Tailwind, Next.js
+* **Frontend** — HTML, CSS, SCSS/SASS, JS, React, React Router, TS, Zustand, Tailwind, Next.js
 * **C#** — Basics, Migrations, Entity Framework, Telegram.Bot Framework
 * **Unity** — 2D/3D, Cinemachine, NavMesh, Coroutines, UI
 * **Databases** — design and interaction via EF
