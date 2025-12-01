@@ -18,6 +18,8 @@
 
 * [React-Todo](https://github.com/lvd536/React-Todo) — todo-лист с темами, CRUD, фильтрацией и поиском. Стек: React, TS, Tailwind, Vite, Zustand.
 
+* [MaybeLearn](https://github.com/lvd536/MaybeLearn) — образовательная платформа. Она предоставляет возможности для создания и прохождения курсов/тестов, а также включает в себя админ-панель для управления контентом и пользователями.
+
 ### Telegram / C#
 
 * [Telegram-Chat-Manager](https://github.com/lvd536/Telegram-Chat-Manager) — многофункциональный чат‑менеджер для Telegram.
