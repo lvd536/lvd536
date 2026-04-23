@@ -14,6 +14,7 @@
   - shadcn
   - react-hook-form
   - Jest
+  - Zod
 * **C#** — Basics, Migrations, Entity Framework, Telegram.Bot Framework
 * **Unity** — 2D/3D, Cinemachine, NavMesh, Coroutines, UI
 * **Databases** — design and interaction via EF, Firebase, Supabase
